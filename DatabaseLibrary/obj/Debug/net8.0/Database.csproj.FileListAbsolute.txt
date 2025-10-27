@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\FinalWork1101-master\DatabaseLibrary\bin\Debug\net8.0\Database.deps.json
+C:\Users\User\Desktop\FinalWork1101-master\DatabaseLibrary\bin\Debug\net8.0\Database.runtimeconfig.json
+C:\Users\User\Desktop\FinalWork1101-master\DatabaseLibrary\bin\Debug\net8.0\Database.dll
+C:\Users\User\Desktop\FinalWork1101-master\DatabaseLibrary\bin\Debug\net8.0\Database.pdb
+C:\Users\User\Desktop\FinalWork1101-master\DatabaseLibrary\obj\Debug\net8.0\Database.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\FinalWork1101-master\DatabaseLibrary\obj\Debug\net8.0\Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\FinalWork1101-master\DatabaseLibrary\obj\Debug\net8.0\Database.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\FinalWork1101-master\DatabaseLibrary\obj\Debug\net8.0\Database.AssemblyInfo.cs
+C:\Users\User\Desktop\FinalWork1101-master\DatabaseLibrary\obj\Debug\net8.0\Database.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\FinalWork1101-master\DatabaseLibrary\obj\Debug\net8.0\Database.dll
+C:\Users\User\Desktop\FinalWork1101-master\DatabaseLibrary\obj\Debug\net8.0\refint\Database.dll
+C:\Users\User\Desktop\FinalWork1101-master\DatabaseLibrary\obj\Debug\net8.0\Database.pdb
+C:\Users\User\Desktop\FinalWork1101-master\DatabaseLibrary\obj\Debug\net8.0\Database.genruntimeconfig.cache
+C:\Users\User\Desktop\FinalWork1101-master\DatabaseLibrary\obj\Debug\net8.0\ref\Database.dll

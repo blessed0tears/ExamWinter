@@ -1,0 +1,576 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bless\\Desktop\\WinterExam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2140374D-6483-459F-B838-6F21D798AD51}|DatabaseLibrary\\DatabaseLibrary.csproj|c:\\users\\bless\\desktop\\winterexam\\databaselibrary\\data\\shopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2140374D-6483-459F-B838-6F21D798AD51}|DatabaseLibrary\\DatabaseLibrary.csproj|solutionrelative:databaselibrary\\data\\shopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4BE67E-8FC1-4121-9BDF-5DCEADB174A1}|FragrantWorld\\FragrantWorldApp.csproj|c:\\users\\bless\\desktop\\winterexam\\fragrantworld\\pages\\shoppage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB4BE67E-8FC1-4121-9BDF-5DCEADB174A1}|FragrantWorld\\FragrantWorldApp.csproj|solutionrelative:fragrantworld\\pages\\shoppage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4BE67E-8FC1-4121-9BDF-5DCEADB174A1}|FragrantWorld\\FragrantWorldApp.csproj|c:\\users\\bless\\desktop\\winterexam\\fragrantworld\\pages\\checkoutwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BB4BE67E-8FC1-4121-9BDF-5DCEADB174A1}|FragrantWorld\\FragrantWorldApp.csproj|solutionrelative:fragrantworld\\pages\\checkoutwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4BE67E-8FC1-4121-9BDF-5DCEADB174A1}|FragrantWorld\\FragrantWorldApp.csproj|c:\\users\\bless\\desktop\\winterexam\\fragrantworld\\pages\\cartpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BB4BE67E-8FC1-4121-9BDF-5DCEADB174A1}|FragrantWorld\\FragrantWorldApp.csproj|solutionrelative:fragrantworld\\pages\\cartpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4BE67E-8FC1-4121-9BDF-5DCEADB174A1}|FragrantWorld\\FragrantWorldApp.csproj|c:\\users\\bless\\desktop\\winterexam\\fragrantworld\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BB4BE67E-8FC1-4121-9BDF-5DCEADB174A1}|FragrantWorld\\FragrantWorldApp.csproj|solutionrelative:fragrantworld\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4BE67E-8FC1-4121-9BDF-5DCEADB174A1}|FragrantWorld\\FragrantWorldApp.csproj|c:\\users\\bless\\desktop\\winterexam\\fragrantworld\\pages\\shoppage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BB4BE67E-8FC1-4121-9BDF-5DCEADB174A1}|FragrantWorld\\FragrantWorldApp.csproj|solutionrelative:fragrantworld\\pages\\shoppage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4BE67E-8FC1-4121-9BDF-5DCEADB174A1}|FragrantWorld\\FragrantWorldApp.csproj|c:\\users\\bless\\desktop\\winterexam\\fragrantworld\\pages\\authorizationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BB4BE67E-8FC1-4121-9BDF-5DCEADB174A1}|FragrantWorld\\FragrantWorldApp.csproj|solutionrelative:fragrantworld\\pages\\authorizationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4BE67E-8FC1-4121-9BDF-5DCEADB174A1}|FragrantWorld\\FragrantWorldApp.csproj|c:\\users\\bless\\desktop\\winterexam\\fragrantworld\\pages\\checkoutwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB4BE67E-8FC1-4121-9BDF-5DCEADB174A1}|FragrantWorld\\FragrantWorldApp.csproj|solutionrelative:fragrantworld\\pages\\checkoutwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4BE67E-8FC1-4121-9BDF-5DCEADB174A1}|FragrantWorld\\FragrantWorldApp.csproj|c:\\users\\bless\\desktop\\winterexam\\fragrantworld\\pages\\cartpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB4BE67E-8FC1-4121-9BDF-5DCEADB174A1}|FragrantWorld\\FragrantWorldApp.csproj|solutionrelative:fragrantworld\\pages\\cartpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2140374D-6483-459F-B838-6F21D798AD51}|DatabaseLibrary\\DatabaseLibrary.csproj|c:\\users\\bless\\desktop\\winterexam\\databaselibrary\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2140374D-6483-459F-B838-6F21D798AD51}|DatabaseLibrary\\DatabaseLibrary.csproj|solutionrelative:databaselibrary\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4BE67E-8FC1-4121-9BDF-5DCEADB174A1}|FragrantWorld\\FragrantWorldApp.csproj|c:\\users\\bless\\desktop\\winterexam\\fragrantworld\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB4BE67E-8FC1-4121-9BDF-5DCEADB174A1}|FragrantWorld\\FragrantWorldApp.csproj|solutionrelative:fragrantworld\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2140374D-6483-459F-B838-6F21D798AD51}|DatabaseLibrary\\DatabaseLibrary.csproj|c:\\users\\bless\\desktop\\winterexam\\databaselibrary\\models\\pickuppoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2140374D-6483-459F-B838-6F21D798AD51}|DatabaseLibrary\\DatabaseLibrary.csproj|solutionrelative:databaselibrary\\models\\pickuppoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2140374D-6483-459F-B838-6F21D798AD51}|DatabaseLibrary\\DatabaseLibrary.csproj|c:\\users\\bless\\desktop\\winterexam\\databaselibrary\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2140374D-6483-459F-B838-6F21D798AD51}|DatabaseLibrary\\DatabaseLibrary.csproj|solutionrelative:databaselibrary\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2140374D-6483-459F-B838-6F21D798AD51}|DatabaseLibrary\\DatabaseLibrary.csproj|c:\\users\\bless\\desktop\\winterexam\\databaselibrary\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2140374D-6483-459F-B838-6F21D798AD51}|DatabaseLibrary\\DatabaseLibrary.csproj|solutionrelative:databaselibrary\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2140374D-6483-459F-B838-6F21D798AD51}|DatabaseLibrary\\DatabaseLibrary.csproj|c:\\users\\bless\\desktop\\winterexam\\databaselibrary\\migrations\\shopcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2140374D-6483-459F-B838-6F21D798AD51}|DatabaseLibrary\\DatabaseLibrary.csproj|solutionrelative:databaselibrary\\migrations\\shopcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4BE67E-8FC1-4121-9BDF-5DCEADB174A1}|FragrantWorld\\FragrantWorldApp.csproj|c:\\users\\bless\\desktop\\winterexam\\fragrantworld\\pages\\authorizationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB4BE67E-8FC1-4121-9BDF-5DCEADB174A1}|FragrantWorld\\FragrantWorldApp.csproj|solutionrelative:fragrantworld\\pages\\authorizationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2140374D-6483-459F-B838-6F21D798AD51}|DatabaseLibrary\\DatabaseLibrary.csproj|c:\\users\\bless\\desktop\\winterexam\\databaselibrary\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2140374D-6483-459F-B838-6F21D798AD51}|DatabaseLibrary\\DatabaseLibrary.csproj|solutionrelative:databaselibrary\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2140374D-6483-459F-B838-6F21D798AD51}|DatabaseLibrary\\DatabaseLibrary.csproj|c:\\users\\bless\\desktop\\winterexam\\databaselibrary\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2140374D-6483-459F-B838-6F21D798AD51}|DatabaseLibrary\\DatabaseLibrary.csproj|solutionrelative:databaselibrary\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B83DC8-9415-4080-AD61-75077CA5D0A9}|WebApi\\WebApi.csproj|c:\\users\\bless\\desktop\\winterexam\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50B83DC8-9415-4080-AD61-75077CA5D0A9}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B83DC8-9415-4080-AD61-75077CA5D0A9}|WebApi\\WebApi.csproj|c:\\users\\bless\\desktop\\winterexam\\webapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50B83DC8-9415-4080-AD61-75077CA5D0A9}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B83DC8-9415-4080-AD61-75077CA5D0A9}|WebApi\\WebApi.csproj|c:\\users\\bless\\desktop\\winterexam\\webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{50B83DC8-9415-4080-AD61-75077CA5D0A9}|WebApi\\WebApi.csproj|solutionrelative:webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B83DC8-9415-4080-AD61-75077CA5D0A9}|WebApi\\WebApi.csproj|c:\\users\\bless\\desktop\\winterexam\\webapi\\webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{50B83DC8-9415-4080-AD61-75077CA5D0A9}|WebApi\\WebApi.csproj|solutionrelative:webapi\\webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B83DC8-9415-4080-AD61-75077CA5D0A9}|WebApi\\WebApi.csproj|c:\\users\\bless\\desktop\\winterexam\\webapi\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50B83DC8-9415-4080-AD61-75077CA5D0A9}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B83DC8-9415-4080-AD61-75077CA5D0A9}|WebApi\\WebApi.csproj|c:\\users\\bless\\desktop\\winterexam\\webapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50B83DC8-9415-4080-AD61-75077CA5D0A9}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B83DC8-9415-4080-AD61-75077CA5D0A9}|WebApi\\WebApi.csproj|c:\\users\\bless\\desktop\\winterexam\\webapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50B83DC8-9415-4080-AD61-75077CA5D0A9}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B83DC8-9415-4080-AD61-75077CA5D0A9}|WebApi\\WebApi.csproj|c:\\users\\bless\\desktop\\winterexam\\webapi\\controllers\\orderproductscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50B83DC8-9415-4080-AD61-75077CA5D0A9}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\orderproductscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2140374D-6483-459F-B838-6F21D798AD51}|DatabaseLibrary\\DatabaseLibrary.csproj|c:\\users\\bless\\desktop\\winterexam\\databaselibrary\\databaselibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2140374D-6483-459F-B838-6F21D798AD51}|DatabaseLibrary\\DatabaseLibrary.csproj|solutionrelative:databaselibrary\\databaselibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4BE67E-8FC1-4121-9BDF-5DCEADB174A1}|FragrantWorld\\FragrantWorldApp.csproj|c:\\users\\bless\\desktop\\winterexam\\fragrantworld\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB4BE67E-8FC1-4121-9BDF-5DCEADB174A1}|FragrantWorld\\FragrantWorldApp.csproj|solutionrelative:fragrantworld\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4BE67E-8FC1-4121-9BDF-5DCEADB174A1}|FragrantWorld\\FragrantWorldApp.csproj|c:\\users\\bless\\desktop\\winterexam\\fragrantworld\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BB4BE67E-8FC1-4121-9BDF-5DCEADB174A1}|FragrantWorld\\FragrantWorldApp.csproj|solutionrelative:fragrantworld\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4BE67E-8FC1-4121-9BDF-5DCEADB174A1}|FragrantWorld\\FragrantWorldApp.csproj|c:\\users\\bless\\desktop\\winterexam\\fragrantworld\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB4BE67E-8FC1-4121-9BDF-5DCEADB174A1}|FragrantWorld\\FragrantWorldApp.csproj|solutionrelative:fragrantworld\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2140374D-6483-459F-B838-6F21D798AD51}|DatabaseLibrary\\DatabaseLibrary.csproj|c:\\users\\bless\\desktop\\winterexam\\databaselibrary\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2140374D-6483-459F-B838-6F21D798AD51}|DatabaseLibrary\\DatabaseLibrary.csproj|solutionrelative:databaselibrary\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2140374D-6483-459F-B838-6F21D798AD51}|DatabaseLibrary\\DatabaseLibrary.csproj|c:\\users\\bless\\desktop\\winterexam\\databaselibrary\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2140374D-6483-459F-B838-6F21D798AD51}|DatabaseLibrary\\DatabaseLibrary.csproj|solutionrelative:databaselibrary\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2140374D-6483-459F-B838-6F21D798AD51}|DatabaseLibrary\\DatabaseLibrary.csproj|c:\\users\\bless\\desktop\\winterexam\\databaselibrary\\models\\orderproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2140374D-6483-459F-B838-6F21D798AD51}|DatabaseLibrary\\DatabaseLibrary.csproj|solutionrelative:databaselibrary\\models\\orderproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2140374D-6483-459F-B838-6F21D798AD51}|DatabaseLibrary\\DatabaseLibrary.csproj|c:\\users\\bless\\desktop\\winterexam\\databaselibrary\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2140374D-6483-459F-B838-6F21D798AD51}|DatabaseLibrary\\DatabaseLibrary.csproj|solutionrelative:databaselibrary\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2140374D-6483-459F-B838-6F21D798AD51}|DatabaseLibrary\\DatabaseLibrary.csproj|c:\\users\\bless\\desktop\\winterexam\\databaselibrary\\migrations\\20251021190532_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2140374D-6483-459F-B838-6F21D798AD51}|DatabaseLibrary\\DatabaseLibrary.csproj|solutionrelative:databaselibrary\\migrations\\20251021190532_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 34,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CheckoutWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\bless\\Desktop\\WinterExam\\FragrantWorld\\Pages\\CheckoutWindow.xaml.cs",
+              "RelativeDocumentMoniker": "FragrantWorld\\Pages\\CheckoutWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\bless\\Desktop\\WinterExam\\FragrantWorld\\Pages\\CheckoutWindow.xaml.cs",
+              "RelativeToolTip": "FragrantWorld\\Pages\\CheckoutWindow.xaml.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAAAGkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T16:27:48.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CheckoutWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\bless\\Desktop\\WinterExam\\FragrantWorld\\Pages\\CheckoutWindow.xaml",
+              "RelativeDocumentMoniker": "FragrantWorld\\Pages\\CheckoutWindow.xaml",
+              "ToolTip": "C:\\Users\\bless\\Desktop\\WinterExam\\FragrantWorld\\Pages\\CheckoutWindow.xaml",
+              "RelativeToolTip": "FragrantWorld\\Pages\\CheckoutWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-27T16:27:20.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CartPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\bless\\Desktop\\WinterExam\\FragrantWorld\\Pages\\CartPage.xaml.cs",
+              "RelativeDocumentMoniker": "FragrantWorld\\Pages\\CartPage.xaml.cs",
+              "ToolTip": "C:\\Users\\bless\\Desktop\\WinterExam\\FragrantWorld\\Pages\\CartPage.xaml.cs",
+              "RelativeToolTip": "FragrantWorld\\Pages\\CartPage.xaml.cs",
+              "ViewState": "AgIAALYAAAAAAAAAAAAAAMgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T16:23:18.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CartPage.xaml",
+              "DocumentMoniker": "C:\\Users\\bless\\Desktop\\WinterExam\\FragrantWorld\\Pages\\CartPage.xaml",
+              "RelativeDocumentMoniker": "FragrantWorld\\Pages\\CartPage.xaml",
+              "ToolTip": "C:\\Users\\bless\\Desktop\\WinterExam\\FragrantWorld\\Pages\\CartPage.xaml",
+              "RelativeToolTip": "FragrantWorld\\Pages\\CartPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-27T16:23:00.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CartService.cs",
+              "DocumentMoniker": "C:\\Users\\bless\\Desktop\\WinterExam\\DatabaseLibrary\\Services\\CartService.cs",
+              "RelativeDocumentMoniker": "DatabaseLibrary\\Services\\CartService.cs",
+              "ToolTip": "C:\\Users\\bless\\Desktop\\WinterExam\\DatabaseLibrary\\Services\\CartService.cs",
+              "RelativeToolTip": "DatabaseLibrary\\Services\\CartService.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAFIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T16:20:28.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\bless\\Desktop\\WinterExam\\DatabaseLibrary\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "DatabaseLibrary\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\bless\\Desktop\\WinterExam\\DatabaseLibrary\\Services\\OrderService.cs",
+              "RelativeToolTip": "DatabaseLibrary\\Services\\OrderService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAcwDMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T16:20:00.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\bless\\Desktop\\WinterExam\\WebApi\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\bless\\Desktop\\WinterExam\\WebApi\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAGYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T15:07:01.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RolesController.cs",
+              "DocumentMoniker": "C:\\Users\\bless\\Desktop\\WinterExam\\WebApi\\Controllers\\RolesController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\RolesController.cs",
+              "ToolTip": "C:\\Users\\bless\\Desktop\\WinterExam\\WebApi\\Controllers\\RolesController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\RolesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T15:06:45.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\bless\\Desktop\\WinterExam\\WebApi\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\bless\\Desktop\\WinterExam\\WebApi\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T15:06:33.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\bless\\Desktop\\WinterExam\\WebApi\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\bless\\Desktop\\WinterExam\\WebApi\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T15:06:18.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DatabaseLibrary.csproj",
+              "DocumentMoniker": "C:\\Users\\bless\\Desktop\\WinterExam\\DatabaseLibrary\\DatabaseLibrary.csproj",
+              "RelativeDocumentMoniker": "DatabaseLibrary\\DatabaseLibrary.csproj",
+              "ToolTip": "C:\\Users\\bless\\Desktop\\WinterExam\\DatabaseLibrary\\DatabaseLibrary.csproj",
+              "RelativeToolTip": "DatabaseLibrary\\DatabaseLibrary.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-27T15:05:47.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "WebApi.http",
+              "DocumentMoniker": "C:\\Users\\bless\\Desktop\\WinterExam\\WebApi\\WebApi.http",
+              "RelativeDocumentMoniker": "WebApi\\WebApi.http",
+              "ToolTip": "C:\\Users\\bless\\Desktop\\WinterExam\\WebApi\\WebApi.http",
+              "RelativeToolTip": "WebApi\\WebApi.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-10-27T14:54:26.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "OrderProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\bless\\Desktop\\WinterExam\\WebApi\\Controllers\\OrderProductsController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\OrderProductsController.cs",
+              "ToolTip": "C:\\Users\\bless\\Desktop\\WinterExam\\WebApi\\Controllers\\OrderProductsController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\OrderProductsController.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAAAHkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T15:04:54.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bless\\Desktop\\WinterExam\\WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\bless\\Desktop\\WinterExam\\WebApi\\Program.cs",
+              "RelativeToolTip": "WebApi\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T15:04:48.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\bless\\Desktop\\WinterExam\\FragrantWorld\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "FragrantWorld\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\bless\\Desktop\\WinterExam\\FragrantWorld\\MainWindow.xaml.cs",
+              "RelativeToolTip": "FragrantWorld\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T15:04:30.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "WebApi.csproj",
+              "DocumentMoniker": "C:\\Users\\bless\\Desktop\\WinterExam\\WebApi\\WebApi.csproj",
+              "RelativeDocumentMoniker": "WebApi\\WebApi.csproj",
+              "ToolTip": "C:\\Users\\bless\\Desktop\\WinterExam\\WebApi\\WebApi.csproj",
+              "RelativeToolTip": "WebApi\\WebApi.csproj",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-27T15:04:30.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\bless\\Desktop\\WinterExam\\FragrantWorld\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "FragrantWorld\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\bless\\Desktop\\WinterExam\\FragrantWorld\\MainWindow.xaml",
+              "RelativeToolTip": "FragrantWorld\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-27T15:03:53.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\bless\\Desktop\\WinterExam\\FragrantWorld\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "FragrantWorld\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\bless\\Desktop\\WinterExam\\FragrantWorld\\AssemblyInfo.cs",
+              "RelativeToolTip": "FragrantWorld\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T15:03:40.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\bless\\Desktop\\WinterExam\\FragrantWorld\\App.xaml.cs",
+              "RelativeDocumentMoniker": "FragrantWorld\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\bless\\Desktop\\WinterExam\\FragrantWorld\\App.xaml.cs",
+              "RelativeToolTip": "FragrantWorld\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T15:02:57.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShopPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\bless\\Desktop\\WinterExam\\FragrantWorld\\Pages\\ShopPage.xaml.cs",
+              "RelativeDocumentMoniker": "FragrantWorld\\Pages\\ShopPage.xaml.cs",
+              "ToolTip": "C:\\Users\\bless\\Desktop\\WinterExam\\FragrantWorld\\Pages\\ShopPage.xaml.cs",
+              "RelativeToolTip": "FragrantWorld\\Pages\\ShopPage.xaml.cs",
+              "ViewState": "AgIAABEBAAAAAAAAAAAAACwBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T15:01:48.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\bless\\Desktop\\WinterExam\\FragrantWorld\\App.xaml",
+              "RelativeDocumentMoniker": "FragrantWorld\\App.xaml",
+              "ToolTip": "C:\\Users\\bless\\Desktop\\WinterExam\\FragrantWorld\\App.xaml",
+              "RelativeToolTip": "FragrantWorld\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-27T15:01:48.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ShopPage.xaml",
+              "DocumentMoniker": "C:\\Users\\bless\\Desktop\\WinterExam\\FragrantWorld\\Pages\\ShopPage.xaml",
+              "RelativeDocumentMoniker": "FragrantWorld\\Pages\\ShopPage.xaml",
+              "ToolTip": "C:\\Users\\bless\\Desktop\\WinterExam\\FragrantWorld\\Pages\\ShopPage.xaml",
+              "RelativeToolTip": "FragrantWorld\\Pages\\ShopPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-27T15:01:17.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AuthorizationPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\bless\\Desktop\\WinterExam\\FragrantWorld\\Pages\\AuthorizationPage.xaml.cs",
+              "RelativeDocumentMoniker": "FragrantWorld\\Pages\\AuthorizationPage.xaml.cs",
+              "ToolTip": "C:\\Users\\bless\\Desktop\\WinterExam\\FragrantWorld\\Pages\\AuthorizationPage.xaml.cs",
+              "RelativeToolTip": "FragrantWorld\\Pages\\AuthorizationPage.xaml.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAmwEEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T15:00:47.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthorizationPage.xaml",
+              "DocumentMoniker": "C:\\Users\\bless\\Desktop\\WinterExam\\FragrantWorld\\Pages\\AuthorizationPage.xaml",
+              "RelativeDocumentMoniker": "FragrantWorld\\Pages\\AuthorizationPage.xaml",
+              "ToolTip": "C:\\Users\\bless\\Desktop\\WinterExam\\FragrantWorld\\Pages\\AuthorizationPage.xaml",
+              "RelativeToolTip": "FragrantWorld\\Pages\\AuthorizationPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-27T15:00:12.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\bless\\Desktop\\WinterExam\\DatabaseLibrary\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "DatabaseLibrary\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\bless\\Desktop\\WinterExam\\DatabaseLibrary\\Services\\UserService.cs",
+              "RelativeToolTip": "DatabaseLibrary\\Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T14:59:45.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\bless\\Desktop\\WinterExam\\DatabaseLibrary\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "DatabaseLibrary\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\bless\\Desktop\\WinterExam\\DatabaseLibrary\\Services\\ProductService.cs",
+              "RelativeToolTip": "DatabaseLibrary\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T14:59:13.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\bless\\Desktop\\WinterExam\\DatabaseLibrary\\Models\\User.cs",
+              "RelativeDocumentMoniker": "DatabaseLibrary\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\bless\\Desktop\\WinterExam\\DatabaseLibrary\\Models\\User.cs",
+              "RelativeToolTip": "DatabaseLibrary\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T14:58:55.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\bless\\Desktop\\WinterExam\\DatabaseLibrary\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "DatabaseLibrary\\Models\\Role.cs",
+              "ToolTip": "C:\\Users\\bless\\Desktop\\WinterExam\\DatabaseLibrary\\Models\\Role.cs",
+              "RelativeToolTip": "DatabaseLibrary\\Models\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T14:58:27.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\bless\\Desktop\\WinterExam\\DatabaseLibrary\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "DatabaseLibrary\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\bless\\Desktop\\WinterExam\\DatabaseLibrary\\Models\\Product.cs",
+              "RelativeToolTip": "DatabaseLibrary\\Models\\Product.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAADwvxsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T14:58:05.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PickupPoint.cs",
+              "DocumentMoniker": "C:\\Users\\bless\\Desktop\\WinterExam\\DatabaseLibrary\\Models\\PickupPoint.cs",
+              "RelativeDocumentMoniker": "DatabaseLibrary\\Models\\PickupPoint.cs",
+              "ToolTip": "C:\\Users\\bless\\Desktop\\WinterExam\\DatabaseLibrary\\Models\\PickupPoint.cs",
+              "RelativeToolTip": "DatabaseLibrary\\Models\\PickupPoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T14:57:39.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "OrderProduct.cs",
+              "DocumentMoniker": "C:\\Users\\bless\\Desktop\\WinterExam\\DatabaseLibrary\\Models\\OrderProduct.cs",
+              "RelativeDocumentMoniker": "DatabaseLibrary\\Models\\OrderProduct.cs",
+              "ToolTip": "C:\\Users\\bless\\Desktop\\WinterExam\\DatabaseLibrary\\Models\\OrderProduct.cs",
+              "RelativeToolTip": "DatabaseLibrary\\Models\\OrderProduct.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T14:56:59.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\bless\\Desktop\\WinterExam\\DatabaseLibrary\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "DatabaseLibrary\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\bless\\Desktop\\WinterExam\\DatabaseLibrary\\Models\\Order.cs",
+              "RelativeToolTip": "DatabaseLibrary\\Models\\Order.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T14:56:26.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ShopContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\bless\\Desktop\\WinterExam\\DatabaseLibrary\\Migrations\\ShopContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "DatabaseLibrary\\Migrations\\ShopContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\bless\\Desktop\\WinterExam\\DatabaseLibrary\\Migrations\\ShopContextModelSnapshot.cs",
+              "RelativeToolTip": "DatabaseLibrary\\Migrations\\ShopContextModelSnapshot.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T14:56:17.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20251021190532_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\bless\\Desktop\\WinterExam\\DatabaseLibrary\\Migrations\\20251021190532_InitialCreate.cs",
+              "RelativeDocumentMoniker": "DatabaseLibrary\\Migrations\\20251021190532_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\bless\\Desktop\\WinterExam\\DatabaseLibrary\\Migrations\\20251021190532_InitialCreate.cs",
+              "RelativeToolTip": "DatabaseLibrary\\Migrations\\20251021190532_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T14:56:14.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShopContext.cs",
+              "DocumentMoniker": "C:\\Users\\bless\\Desktop\\WinterExam\\DatabaseLibrary\\Data\\ShopContext.cs",
+              "RelativeDocumentMoniker": "DatabaseLibrary\\Data\\ShopContext.cs",
+              "ToolTip": "C:\\Users\\bless\\Desktop\\WinterExam\\DatabaseLibrary\\Data\\ShopContext.cs*",
+              "RelativeToolTip": "DatabaseLibrary\\Data\\ShopContext.cs*",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAwCAAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T14:55:22.147Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

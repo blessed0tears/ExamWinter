@@ -1,0 +1,30 @@
+C:\Users\bless\Desktop\WinterExam\DatabaseLibrary\bin\Debug\net9.0\DatabaseLibrary.deps.json
+C:\Users\bless\Desktop\WinterExam\DatabaseLibrary\bin\Debug\net9.0\DatabaseLibrary.runtimeconfig.json
+C:\Users\bless\Desktop\WinterExam\DatabaseLibrary\bin\Debug\net9.0\DatabaseLibrary.dll
+C:\Users\bless\Desktop\WinterExam\DatabaseLibrary\bin\Debug\net9.0\DatabaseLibrary.pdb
+C:\Users\bless\Desktop\WinterExam\DatabaseLibrary\obj\Debug\net9.0\DatabaseLibrary.csproj.AssemblyReference.cache
+C:\Users\bless\Desktop\WinterExam\DatabaseLibrary\obj\Debug\net9.0\DatabaseLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bless\Desktop\WinterExam\DatabaseLibrary\obj\Debug\net9.0\DatabaseLibrary.AssemblyInfoInputs.cache
+C:\Users\bless\Desktop\WinterExam\DatabaseLibrary\obj\Debug\net9.0\DatabaseLibrary.AssemblyInfo.cs
+C:\Users\bless\Desktop\WinterExam\DatabaseLibrary\obj\Debug\net9.0\DatabaseLibrary.csproj.CoreCompileInputs.cache
+C:\Users\bless\Desktop\WinterExam\DatabaseLibrary\obj\Debug\net9.0\DatabaseLibrary.sourcelink.json
+C:\Users\bless\Desktop\WinterExam\DatabaseLibrary\obj\Debug\net9.0\DatabaseLibrary.dll
+C:\Users\bless\Desktop\WinterExam\DatabaseLibrary\obj\Debug\net9.0\refint\DatabaseLibrary.dll
+C:\Users\bless\Desktop\WinterExam\DatabaseLibrary\obj\Debug\net9.0\DatabaseLibrary.pdb
+C:\Users\bless\Desktop\WinterExam\DatabaseLibrary\obj\Debug\net9.0\DatabaseLibrary.genruntimeconfig.cache
+C:\Users\bless\Desktop\WinterExam\DatabaseLibrary\obj\Debug\net9.0\ref\DatabaseLibrary.dll
+C:\Users\bless\Desktop\WinterExam — копия\DatabaseLibrary\bin\Debug\net9.0\DatabaseLibrary.deps.json
+C:\Users\bless\Desktop\WinterExam — копия\DatabaseLibrary\bin\Debug\net9.0\DatabaseLibrary.runtimeconfig.json
+C:\Users\bless\Desktop\WinterExam — копия\DatabaseLibrary\bin\Debug\net9.0\DatabaseLibrary.dll
+C:\Users\bless\Desktop\WinterExam — копия\DatabaseLibrary\bin\Debug\net9.0\DatabaseLibrary.pdb
+C:\Users\bless\Desktop\WinterExam — копия\DatabaseLibrary\obj\Debug\net9.0\DatabaseLibrary.csproj.AssemblyReference.cache
+C:\Users\bless\Desktop\WinterExam — копия\DatabaseLibrary\obj\Debug\net9.0\DatabaseLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bless\Desktop\WinterExam — копия\DatabaseLibrary\obj\Debug\net9.0\DatabaseLibrary.AssemblyInfoInputs.cache
+C:\Users\bless\Desktop\WinterExam — копия\DatabaseLibrary\obj\Debug\net9.0\DatabaseLibrary.AssemblyInfo.cs
+C:\Users\bless\Desktop\WinterExam — копия\DatabaseLibrary\obj\Debug\net9.0\DatabaseLibrary.csproj.CoreCompileInputs.cache
+C:\Users\bless\Desktop\WinterExam — копия\DatabaseLibrary\obj\Debug\net9.0\DatabaseLibrary.sourcelink.json
+C:\Users\bless\Desktop\WinterExam — копия\DatabaseLibrary\obj\Debug\net9.0\DatabaseLibrary.dll
+C:\Users\bless\Desktop\WinterExam — копия\DatabaseLibrary\obj\Debug\net9.0\refint\DatabaseLibrary.dll
+C:\Users\bless\Desktop\WinterExam — копия\DatabaseLibrary\obj\Debug\net9.0\DatabaseLibrary.pdb
+C:\Users\bless\Desktop\WinterExam — копия\DatabaseLibrary\obj\Debug\net9.0\DatabaseLibrary.genruntimeconfig.cache
+C:\Users\bless\Desktop\WinterExam — копия\DatabaseLibrary\obj\Debug\net9.0\ref\DatabaseLibrary.dll

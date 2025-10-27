@@ -1,0 +1,98 @@
+C:\Users\bless\Desktop\WinterExam\FragrantWorld\bin\Debug\net9.0-windows\FragrantWorldApp.exe
+C:\Users\bless\Desktop\WinterExam\FragrantWorld\bin\Debug\net9.0-windows\FragrantWorldApp.deps.json
+C:\Users\bless\Desktop\WinterExam\FragrantWorld\bin\Debug\net9.0-windows\FragrantWorldApp.runtimeconfig.json
+C:\Users\bless\Desktop\WinterExam\FragrantWorld\bin\Debug\net9.0-windows\FragrantWorldApp.dll
+C:\Users\bless\Desktop\WinterExam\FragrantWorld\bin\Debug\net9.0-windows\FragrantWorldApp.pdb
+C:\Users\bless\Desktop\WinterExam\FragrantWorld\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\bless\Desktop\WinterExam\FragrantWorld\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\bless\Desktop\WinterExam\FragrantWorld\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\bless\Desktop\WinterExam\FragrantWorld\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\bless\Desktop\WinterExam\FragrantWorld\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\bless\Desktop\WinterExam\FragrantWorld\bin\Debug\net9.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\bless\Desktop\WinterExam\FragrantWorld\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\bless\Desktop\WinterExam\FragrantWorld\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\bless\Desktop\WinterExam\FragrantWorld\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\bless\Desktop\WinterExam\FragrantWorld\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\bless\Desktop\WinterExam\FragrantWorld\bin\Debug\net9.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\bless\Desktop\WinterExam\FragrantWorld\bin\Debug\net9.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\bless\Desktop\WinterExam\FragrantWorld\bin\Debug\net9.0-windows\MySqlConnector.dll
+C:\Users\bless\Desktop\WinterExam\FragrantWorld\bin\Debug\net9.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\bless\Desktop\WinterExam\FragrantWorld\bin\Debug\net9.0-windows\DatabaseLibrary.dll
+C:\Users\bless\Desktop\WinterExam\FragrantWorld\bin\Debug\net9.0-windows\DatabaseLibrary.pdb
+C:\Users\bless\Desktop\WinterExam\FragrantWorld\obj\Debug\net9.0-windows\FragrantWorldApp.csproj.AssemblyReference.cache
+C:\Users\bless\Desktop\WinterExam\FragrantWorld\obj\Debug\net9.0-windows\MainWindow.g.cs
+C:\Users\bless\Desktop\WinterExam\FragrantWorld\obj\Debug\net9.0-windows\Pages\AuthorizationPage.g.cs
+C:\Users\bless\Desktop\WinterExam\FragrantWorld\obj\Debug\net9.0-windows\Pages\ShopPage.g.cs
+C:\Users\bless\Desktop\WinterExam\FragrantWorld\obj\Debug\net9.0-windows\App.g.cs
+C:\Users\bless\Desktop\WinterExam\FragrantWorld\obj\Debug\net9.0-windows\FragrantWorldApp_Content.g.cs
+C:\Users\bless\Desktop\WinterExam\FragrantWorld\obj\Debug\net9.0-windows\FragrantWorldApp_MarkupCompile.cache
+C:\Users\bless\Desktop\WinterExam\FragrantWorld\obj\Debug\net9.0-windows\FragrantWorldApp_MarkupCompile.lref
+C:\Users\bless\Desktop\WinterExam\FragrantWorld\obj\Debug\net9.0-windows\App.baml
+C:\Users\bless\Desktop\WinterExam\FragrantWorld\obj\Debug\net9.0-windows\MainWindow.baml
+C:\Users\bless\Desktop\WinterExam\FragrantWorld\obj\Debug\net9.0-windows\Pages\AuthorizationPage.baml
+C:\Users\bless\Desktop\WinterExam\FragrantWorld\obj\Debug\net9.0-windows\Pages\ShopPage.baml
+C:\Users\bless\Desktop\WinterExam\FragrantWorld\obj\Debug\net9.0-windows\FragrantWorldApp.g.resources
+C:\Users\bless\Desktop\WinterExam\FragrantWorld\obj\Debug\net9.0-windows\FragrantWorldApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bless\Desktop\WinterExam\FragrantWorld\obj\Debug\net9.0-windows\FragrantWorldApp.AssemblyInfoInputs.cache
+C:\Users\bless\Desktop\WinterExam\FragrantWorld\obj\Debug\net9.0-windows\FragrantWorldApp.AssemblyInfo.cs
+C:\Users\bless\Desktop\WinterExam\FragrantWorld\obj\Debug\net9.0-windows\FragrantWorldApp.csproj.CoreCompileInputs.cache
+C:\Users\bless\Desktop\WinterExam\FragrantWorld\obj\Debug\net9.0-windows\FragrantWorldApp.sourcelink.json
+C:\Users\bless\Desktop\WinterExam\FragrantWorld\obj\Debug\net9.0-windows\Fragrant.AF15DDA3.Up2Date
+C:\Users\bless\Desktop\WinterExam\FragrantWorld\obj\Debug\net9.0-windows\FragrantWorldApp.dll
+C:\Users\bless\Desktop\WinterExam\FragrantWorld\obj\Debug\net9.0-windows\refint\FragrantWorldApp.dll
+C:\Users\bless\Desktop\WinterExam\FragrantWorld\obj\Debug\net9.0-windows\FragrantWorldApp.pdb
+C:\Users\bless\Desktop\WinterExam\FragrantWorld\obj\Debug\net9.0-windows\FragrantWorldApp.genruntimeconfig.cache
+C:\Users\bless\Desktop\WinterExam\FragrantWorld\obj\Debug\net9.0-windows\ref\FragrantWorldApp.dll
+C:\Users\bless\Desktop\WinterExam — копия\FragrantWorld\bin\Debug\net9.0-windows\FragrantWorldApp.exe
+C:\Users\bless\Desktop\WinterExam — копия\FragrantWorld\bin\Debug\net9.0-windows\FragrantWorldApp.deps.json
+C:\Users\bless\Desktop\WinterExam — копия\FragrantWorld\bin\Debug\net9.0-windows\FragrantWorldApp.runtimeconfig.json
+C:\Users\bless\Desktop\WinterExam — копия\FragrantWorld\bin\Debug\net9.0-windows\FragrantWorldApp.dll
+C:\Users\bless\Desktop\WinterExam — копия\FragrantWorld\bin\Debug\net9.0-windows\FragrantWorldApp.pdb
+C:\Users\bless\Desktop\WinterExam — копия\FragrantWorld\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\bless\Desktop\WinterExam — копия\FragrantWorld\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\bless\Desktop\WinterExam — копия\FragrantWorld\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\bless\Desktop\WinterExam — копия\FragrantWorld\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\bless\Desktop\WinterExam — копия\FragrantWorld\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\bless\Desktop\WinterExam — копия\FragrantWorld\bin\Debug\net9.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\bless\Desktop\WinterExam — копия\FragrantWorld\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\bless\Desktop\WinterExam — копия\FragrantWorld\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\bless\Desktop\WinterExam — копия\FragrantWorld\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\bless\Desktop\WinterExam — копия\FragrantWorld\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\bless\Desktop\WinterExam — копия\FragrantWorld\bin\Debug\net9.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\bless\Desktop\WinterExam — копия\FragrantWorld\bin\Debug\net9.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\bless\Desktop\WinterExam — копия\FragrantWorld\bin\Debug\net9.0-windows\MySqlConnector.dll
+C:\Users\bless\Desktop\WinterExam — копия\FragrantWorld\bin\Debug\net9.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\bless\Desktop\WinterExam — копия\FragrantWorld\bin\Debug\net9.0-windows\DatabaseLibrary.dll
+C:\Users\bless\Desktop\WinterExam — копия\FragrantWorld\bin\Debug\net9.0-windows\DatabaseLibrary.pdb
+C:\Users\bless\Desktop\WinterExam — копия\FragrantWorld\obj\Debug\net9.0-windows\FragrantWorldApp.csproj.AssemblyReference.cache
+C:\Users\bless\Desktop\WinterExam — копия\FragrantWorld\obj\Debug\net9.0-windows\MainWindow.g.cs
+C:\Users\bless\Desktop\WinterExam — копия\FragrantWorld\obj\Debug\net9.0-windows\Pages\AuthorizationPage.g.cs
+C:\Users\bless\Desktop\WinterExam — копия\FragrantWorld\obj\Debug\net9.0-windows\Pages\ShopPage.g.cs
+C:\Users\bless\Desktop\WinterExam — копия\FragrantWorld\obj\Debug\net9.0-windows\App.g.cs
+C:\Users\bless\Desktop\WinterExam — копия\FragrantWorld\obj\Debug\net9.0-windows\FragrantWorldApp_Content.g.cs
+C:\Users\bless\Desktop\WinterExam — копия\FragrantWorld\obj\Debug\net9.0-windows\FragrantWorldApp_MarkupCompile.cache
+C:\Users\bless\Desktop\WinterExam — копия\FragrantWorld\obj\Debug\net9.0-windows\FragrantWorldApp_MarkupCompile.lref
+C:\Users\bless\Desktop\WinterExam — копия\FragrantWorld\obj\Debug\net9.0-windows\App.baml
+C:\Users\bless\Desktop\WinterExam — копия\FragrantWorld\obj\Debug\net9.0-windows\MainWindow.baml
+C:\Users\bless\Desktop\WinterExam — копия\FragrantWorld\obj\Debug\net9.0-windows\Pages\AuthorizationPage.baml
+C:\Users\bless\Desktop\WinterExam — копия\FragrantWorld\obj\Debug\net9.0-windows\Pages\ShopPage.baml
+C:\Users\bless\Desktop\WinterExam — копия\FragrantWorld\obj\Debug\net9.0-windows\FragrantWorldApp.g.resources
+C:\Users\bless\Desktop\WinterExam — копия\FragrantWorld\obj\Debug\net9.0-windows\FragrantWorldApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bless\Desktop\WinterExam — копия\FragrantWorld\obj\Debug\net9.0-windows\FragrantWorldApp.AssemblyInfoInputs.cache
+C:\Users\bless\Desktop\WinterExam — копия\FragrantWorld\obj\Debug\net9.0-windows\FragrantWorldApp.AssemblyInfo.cs
+C:\Users\bless\Desktop\WinterExam — копия\FragrantWorld\obj\Debug\net9.0-windows\FragrantWorldApp.csproj.CoreCompileInputs.cache
+C:\Users\bless\Desktop\WinterExam — копия\FragrantWorld\obj\Debug\net9.0-windows\FragrantWorldApp.sourcelink.json
+C:\Users\bless\Desktop\WinterExam — копия\FragrantWorld\obj\Debug\net9.0-windows\Fragrant.AF15DDA3.Up2Date
+C:\Users\bless\Desktop\WinterExam — копия\FragrantWorld\obj\Debug\net9.0-windows\FragrantWorldApp.dll
+C:\Users\bless\Desktop\WinterExam — копия\FragrantWorld\obj\Debug\net9.0-windows\refint\FragrantWorldApp.dll
+C:\Users\bless\Desktop\WinterExam — копия\FragrantWorld\obj\Debug\net9.0-windows\FragrantWorldApp.pdb
+C:\Users\bless\Desktop\WinterExam — копия\FragrantWorld\obj\Debug\net9.0-windows\FragrantWorldApp.genruntimeconfig.cache
+C:\Users\bless\Desktop\WinterExam — копия\FragrantWorld\obj\Debug\net9.0-windows\ref\FragrantWorldApp.dll
+C:\Users\bless\Desktop\WinterExam — копия\FragrantWorld\obj\Debug\net9.0-windows\Pages\CheckoutWindow.baml
+C:\Users\bless\Desktop\WinterExam — копия\FragrantWorld\obj\Debug\net9.0-windows\Pages\CheckoutWindow.g.cs
+C:\Users\bless\Desktop\WinterExam — копия\FragrantWorld\obj\Debug\net9.0-windows\Pages\CartPage.baml
+C:\Users\bless\Desktop\WinterExam — копия\FragrantWorld\obj\Debug\net9.0-windows\Pages\CartPage.g.cs
+C:\Users\bless\Desktop\WinterExam\FragrantWorld\obj\Debug\net9.0-windows\Pages\CartPage.baml
+C:\Users\bless\Desktop\WinterExam\FragrantWorld\obj\Debug\net9.0-windows\Pages\CheckoutWindow.baml
+C:\Users\bless\Desktop\WinterExam\FragrantWorld\obj\Debug\net9.0-windows\Pages\CartPage.g.cs
+C:\Users\bless\Desktop\WinterExam\FragrantWorld\obj\Debug\net9.0-windows\Pages\CheckoutWindow.g.cs
