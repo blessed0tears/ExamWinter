@@ -3,8 +3,7 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         Title="Оформление заказа" 
         Height="400" Width="500"
-        WindowStartupLocation="CenterScreen"
-        Background="#FFF0F5">
+        WindowStartupLocation="CenterScreen">
 
     <Grid Margin="10">
         <Grid.RowDefinitions>
@@ -17,13 +16,13 @@
             <RowDefinition Height="Auto"/>
         </Grid.RowDefinitions>
 
-        <TextBlock Text="Оформление заказа" Grid.Row="0" FontSize="16" FontWeight="Bold" Margin="0,0,0,10" Foreground="#C71585"/>
+        <TextBlock Text="Оформление заказа" Grid.Row="0" FontSize="16" FontWeight="Bold" Margin="0,0,0,10"/>
 
-        <TextBlock Text="Пункт выдачи:" Grid.Row="1" Margin="0,5" Foreground="#FF69B4"/>
-        <ComboBox x:Name="PickupPointComboBox" Grid.Row="2" Margin="0,5" DisplayMemberPath="FullAddress" Background="#FFE4E9" BorderBrush="#FFB6C1"/>
+        <TextBlock Text="Пункт выдачи:" Grid.Row="1" Margin="0,5"/>
+        <ComboBox x:Name="PickupPointComboBox" Grid.Row="2" Margin="0,5" DisplayMemberPath="FullAddress"/>
 
-        <TextBlock Text="Товары в заказе:" Grid.Row="3" Margin="0,10,0,5" Foreground="#FF69B4"/>
-        <ListView x:Name="OrderItemsListView" Grid.Row="4" Height="150" Margin="0,5" Background="#FFE4E9" BorderBrush="#FFB6C1">
+        <TextBlock Text="Товары в заказе:" Grid.Row="3" Margin="0,10,0,5"/>
+        <ListView x:Name="OrderItemsListView" Grid.Row="4" Height="150" Margin="0,5">
             <ListView.View>
                 <GridView>
                     <GridViewColumn Header="Товар" DisplayMemberBinding="{Binding Name}" Width="200"/>
@@ -41,12 +40,12 @@
         </ListView>
 
         <StackPanel Grid.Row="5" Margin="0,10">
-            <TextBlock x:Name="TotalTextBlock" FontWeight="Bold" FontSize="14" Foreground="#C71585"/>
+            <TextBlock x:Name="TotalTextBlock" FontWeight="Bold" FontSize="14"/>
         </StackPanel>
 
         <StackPanel Grid.Row="6" Orientation="Horizontal" HorizontalAlignment="Right" Margin="0,10">
-            <Button Content="Отмена" Click="CancelButton_Click" Margin="0,0,10,0" Width="80" Background="#FFB6C1"/>
-            <Button Content="Оформить" Click="ConfirmButton_Click" Background="#FF69B4" 
+            <Button Content="Отмена" Click="CancelButton_Click" Margin="0,0,10,0" Width="80"/>
+            <Button Content="Оформить" Click="ConfirmButton_Click" Background="#CC6636" 
                     Foreground="White" Width="80"/>
         </StackPanel>
     </Grid>

@@ -90,7 +90,8 @@ namespace FragrantWorld.Pages
             {
                 Content = "-",
                 Width = 30,
-                Tag = item.ProductId
+                Tag = item.ProductId,
+                Background = new System.Windows.Media.SolidColorBrush(System.Windows.Media.Color.FromRgb(204, 102, 0))
             };
             minusButton.Click += MinusButton_Click;
 
@@ -106,7 +107,8 @@ namespace FragrantWorld.Pages
             {
                 Content = "+",
                 Width = 30,
-                Tag = item.ProductId
+                Tag = item.ProductId,
+                Background = new System.Windows.Media.SolidColorBrush(System.Windows.Media.Color.FromRgb(204, 102, 0))
             };
             plusButton.Click += PlusButton_Click;
 
@@ -114,7 +116,8 @@ namespace FragrantWorld.Pages
             {
                 Content = "Удалить",
                 Margin = new Thickness(10, 0, 0, 0),
-                Tag = item.ProductId
+                Tag = item.ProductId,
+                Background = new System.Windows.Media.SolidColorBrush(System.Windows.Media.Color.FromRgb(204, 102, 0))
             };
             removeButton.Click += RemoveButton_Click;
 

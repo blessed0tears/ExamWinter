@@ -7,42 +7,41 @@
       mc:Ignorable="d" 
       d:DesignHeight="450" d:DesignWidth="800"
       Title="ShopPage"
-      Loaded="Page_Loaded"
-      Background="#FFF0F5">
+      Loaded="Page_Loaded">
 
     <Grid>
         <Grid.RowDefinitions>
-            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="25"/>
             <RowDefinition/>
         </Grid.RowDefinitions>
 
-        <StackPanel Orientation="Horizontal" Grid.Row="0" VerticalAlignment="Top" Background="#FFB6C1" Margin="5">
-            <Button x:Name="BackButton" Content="Назад" Width="100" Click="BackButton_Click" Background="#FF69B4" Foreground="White"/>
-            <Button x:Name="CartButton" Content="Корзина" Width="100" Click="CartButton_Click" Background="#FF69B4" Foreground="White" Margin="5,0,0,0"/>
+        <StackPanel Orientation="Horizontal" Grid.Row="0" VerticalAlignment="Top">
+            <Button x:Name="BackButton" Content="Назад" Width="100" Click="BackButton_Click" Background="#CC6636"/>
+            <Button x:Name="CartButton" Content="Корзина" Width="100" Click="CartButton_Click" Background="#CC6636" Margin="5,0,0,0"/>
 
-            <TextBlock Text="Поиск:" Margin="10,0,5,0" FontFamily="Comic Sans MS" VerticalAlignment="Center" Foreground="#C71585"/>
-            <TextBox x:Name="SearchTextBox" Width="200" TextChanged="SearchTextBox_TextChanged" VerticalAlignment="Center" Background="#FFE4E9" BorderBrush="#FFB6C1"/>
+            <TextBlock Text="Поиск:" Margin="5" FontFamily="Comic Sans MS"/>
+            <TextBox x:Name="SearchTextBox" Width="200" TextChanged="SearchTextBox_TextChanged"/>
 
-            <TextBlock Text="Производитель:" Margin="10,0,5,0" FontFamily="Comic Sans MS" VerticalAlignment="Center" Foreground="#C71585"/>
-            <ComboBox x:Name="ManufacturerComboBox" Width="150" SelectionChanged="ManufacturerComboBox_SelectionChanged" VerticalAlignment="Center" Background="#FFE4E9" BorderBrush="#FFB6C1">
+            <TextBlock Text="Производитель:" Margin="5" FontFamily="Comic Sans MS"/>
+            <ComboBox x:Name="ManufacturerComboBox" Width="150" SelectionChanged="ManufacturerComboBox_SelectionChanged">
                 <ComboBoxItem Content="Все производители" />
             </ComboBox>
 
-            <TextBlock Text="Цена от:" Margin="10,0,5,0" FontFamily="Comic Sans MS" VerticalAlignment="Center" Foreground="#C71585"/>
-            <TextBox x:Name="MinPriceTextBox" Width="70" TextChanged="PriceTextBox_TextChanged" VerticalAlignment="Center" Background="#FFE4E9" BorderBrush="#FFB6C1"/>
-            <TextBlock Text="до:" Margin="5,0,5,0" FontFamily="Comic Sans MS" VerticalAlignment="Center" Foreground="#C71585"/>
-            <TextBox x:Name="MaxPriceTextBox" Width="70" TextChanged="PriceTextBox_TextChanged" VerticalAlignment="Center" Background="#FFE4E9" BorderBrush="#FFB6C1"/>
+            <TextBlock Text="Цена от:" Margin="5" FontFamily="Comic Sans MS"/>
+            <TextBox x:Name="MinPriceTextBox" Width="70" TextChanged="PriceTextBox_TextChanged"/>
+            <TextBlock Text="до:" Margin="5" FontFamily="Comic Sans MS"/>
+            <TextBox x:Name="MaxPriceTextBox" Width="70" TextChanged="PriceTextBox_TextChanged"/>
 
-            <TextBlock Text="Сортировка:" Margin="10,0,5,0" FontFamily="Comic Sans MS" VerticalAlignment="Center" Foreground="#C71585"/>
-            <ComboBox x:Name="SortComboBox" Width="150" SelectionChanged="SortComboBox_SelectionChanged" VerticalAlignment="Center" Background="#FFE4E9" BorderBrush="#FFB6C1">
+            <TextBlock Text="Сортировка:" Margin="5" FontFamily="Comic Sans MS"/>
+            <ComboBox x:Name="SortComboBox" Width="150" SelectionChanged="SortComboBox_SelectionChanged">
                 <ComboBoxItem Content="Цена (по возрастанию)" />
                 <ComboBoxItem Content="Цена (по убыванию)" />
             </ComboBox>
 
-            <TextBlock x:Name="CountTextBlock" Text="0 из 0" Margin="10,0,5,0" FontFamily="Comic Sans MS" VerticalAlignment="Center" Foreground="#C71585"/>
+            <TextBlock x:Name="CountTextBlock" Text="0 из 0" Margin="5" FontFamily="Comic Sans MS"/>
         </StackPanel>
 
-        <ScrollViewer Grid.Row="1" x:Name="ProductScrollViewer" VerticalScrollBarVisibility="Auto" Background="#FFF0F5">
+        <ScrollViewer Grid.Row="1" x:Name="ProductScrollViewer">
             <StackPanel x:Name="ProductStackPanel"/>
         </ScrollViewer>
     </Grid>

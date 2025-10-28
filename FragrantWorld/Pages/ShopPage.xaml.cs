@@ -42,7 +42,7 @@ namespace FragrantWorld.Pages
                     FontFamily = new FontFamily("Comic Sans MS"),
                     FontWeight = FontWeights.Bold,
                     Margin = new Thickness(10, 0, 0, 0),
-                    Foreground = new SolidColorBrush(Color.FromRgb(199, 21, 133))
+                    Foreground = System.Windows.Media.Brushes.Black
                 };
 
                 var topPanel = BackButton.Parent as StackPanel;
@@ -59,7 +59,7 @@ namespace FragrantWorld.Pages
                     FontFamily = new FontFamily("Comic Sans MS"),
                     FontWeight = FontWeights.Bold,
                     Margin = new Thickness(10, 0, 0, 0),
-                    Foreground = new SolidColorBrush(Color.FromRgb(199, 21, 133))
+                    Foreground = System.Windows.Media.Brushes.Black
                 };
 
                 var topPanel = BackButton.Parent as StackPanel;
@@ -207,7 +207,7 @@ namespace FragrantWorld.Pages
                 {
                     Width = 630,
                     Margin = new Thickness(15),
-                    Background = new SolidColorBrush(Color.FromRgb(255, 182, 193)),
+                    Background = new SolidColorBrush(Color.FromRgb(255, 204, 153)),
                 };
 
                 Grid grid = new();
@@ -221,8 +221,7 @@ namespace FragrantWorld.Pages
                 TextBlock ProductTextBlock = new TextBlock()
                 {
                     Text = productItem.Name,
-                    FontWeight = FontWeights.Bold,
-                    Foreground = new SolidColorBrush(Color.FromRgb(199, 21, 133))
+                    FontWeight = FontWeights.Bold
                 };
                 Grid.SetRow(ProductTextBlock, 0);
                 Grid.SetColumn(ProductTextBlock, 0);
@@ -233,8 +232,7 @@ namespace FragrantWorld.Pages
                     Text = productItem.Description,
                     FontFamily = new FontFamily("Comic Sans MS"),
                     TextWrapping = TextWrapping.Wrap,
-                    TextAlignment = TextAlignment.Left,
-                    Foreground = new SolidColorBrush(Color.FromRgb(255, 105, 180))
+                    TextAlignment = TextAlignment.Left
                 };
                 Grid.SetRow(DescriptionTextBlock, 1);
                 Grid.SetColumn(DescriptionTextBlock, 0);
@@ -244,7 +242,6 @@ namespace FragrantWorld.Pages
                 {
                     Text = $"Производитель: {productItem.Manufacturer}",
                     FontFamily = new FontFamily("Comic Sans MS"),
-                    Foreground = new SolidColorBrush(Color.FromRgb(255, 105, 180))
                 };
                 Grid.SetRow(ManufacturerTextBlock, 2);
                 Grid.SetColumn(ManufacturerTextBlock, 0);
@@ -254,7 +251,6 @@ namespace FragrantWorld.Pages
                 {
                     Text = $"Цена: {productItem.Cost} руб.",
                     FontFamily = new FontFamily("Comic Sans MS"),
-                    Foreground = new SolidColorBrush(Color.FromRgb(199, 21, 133))
                 };
                 Grid.SetRow(PriceTextBlock, 3);
                 Grid.SetColumn(PriceTextBlock, 0);
@@ -265,8 +261,7 @@ namespace FragrantWorld.Pages
                     Content = "Заказать",
                     HorizontalAlignment = HorizontalAlignment.Right,
                     FontFamily = new FontFamily("Comic Sans MS"),
-                    Background = new SolidColorBrush(Color.FromRgb(255, 105, 180)),
-                    Foreground = System.Windows.Media.Brushes.White
+                    Background = new SolidColorBrush(Color.FromRgb(204, 102, 0))
                 };
                 OrderButton.Click += (s, e) => OrderButton_Click(productItem);
                 Grid.SetRow(OrderButton, 3);

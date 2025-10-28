@@ -6,8 +6,7 @@
       mc:Ignorable="d" 
       d:DesignHeight="450" d:DesignWidth="800"
       Title="CartPage"
-      Loaded="Page_Loaded"
-      Background="#FFF0F5">
+      Loaded="Page_Loaded">
 
     <Grid>
         <Grid.RowDefinitions>
@@ -16,19 +15,21 @@
             <RowDefinition Height="Auto"/>
         </Grid.RowDefinitions>
 
-        <StackPanel Orientation="Horizontal" Grid.Row="0" Background="#FFB6C1" Margin="5">
-            <Button x:Name="BackButton" Content="Назад" Width="100" Click="BackButton_Click" Background="#FF69B4" Foreground="White"/>
-            <TextBlock Text="Корзина" FontSize="16" FontWeight="Bold" Margin="20,0,0,0" VerticalAlignment="Center" Foreground="#C71585"/>
+        <!-- ИСПРАВЛЕНО: Padding заменен на Margin -->
+        <StackPanel Orientation="Horizontal" Grid.Row="0" Background="#FFCC99" Margin="10">
+            <Button x:Name="BackButton" Content="Назад" Width="100" Click="BackButton_Click" Background="#CC6636"/>
+            <TextBlock Text="Корзина" FontSize="16" FontWeight="Bold" Margin="20,0,0,0" VerticalAlignment="Center"/>
         </StackPanel>
 
-        <ScrollViewer Grid.Row="1" x:Name="CartScrollViewer" Background="#FFF0F5">
+        <ScrollViewer Grid.Row="1" x:Name="CartScrollViewer">
             <StackPanel x:Name="CartItemsPanel"/>
         </ScrollViewer>
 
-        <StackPanel Grid.Row="2" Background="#FFE4E9" Margin="5">
-            <TextBlock x:Name="TotalTextBlock" FontSize="14" FontWeight="Bold" Margin="5" Foreground="#C71585"/>
+        <!-- ИСПРАВЛЕНО: Padding заменен на Margin -->
+        <StackPanel Grid.Row="2" Background="#FFEBCD" Margin="10">
+            <TextBlock x:Name="TotalTextBlock" FontSize="14" FontWeight="Bold" Margin="5"/>
             <Button x:Name="CheckoutButton" Content="Оформить заказ" Click="CheckoutButton_Click" 
-                    Background="#FF69B4" Foreground="White" FontSize="14" Margin="5"/>
+                    Background="#CC6636" Foreground="White" FontSize="14" Padding="10" Margin="5"/>
         </StackPanel>
     </Grid>
 </Page>

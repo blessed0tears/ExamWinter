@@ -6,22 +6,21 @@
       xmlns:local="clr-namespace:FragrantWorld.Pages"
       mc:Ignorable="d" 
       d:DesignHeight="450" d:DesignWidth="800"
-      Title="AuthorizePage"
-      Background="#FFF0F5">
+      Title="AuthorizePage">
 
     <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" Width="200">
-        <TextBlock Text="Авторизация" HorizontalAlignment="Center" FontWeight="Bold" FontSize="16" Foreground="#C71585" Margin="0,0,0,20"/>
+        <TextBlock Text="Авторизация" HorizontalAlignment="Center" FontWeight="Bold"/>
         <StackPanel>
-            <TextBlock Text="Логин:" FontFamily="Comic Sans MS" Foreground="#FF69B4"/>
-            <TextBox x:Name="LoginTextBox" FontFamily="Comic Sans MS" Background="#FFE4E9" BorderBrush="#FFB6C1"/>
+            <TextBlock Text="Логин:" FontFamily="Comic Sans MS"/>
+            <TextBox x:Name="LoginTextBox" FontFamily="Comic Sans MS"/>
         </StackPanel>
-        <StackPanel Margin="0,10,0,0">
-            <TextBlock Text="Пароль:" FontFamily="Comic Sans MS" Foreground="#FF69B4"/>
-            <PasswordBox x:Name="PasswordTextBox" FontFamily="Comic Sans MS" Background="#FFE4E9" BorderBrush="#FFB6C1"/>
+        <StackPanel>
+            <TextBlock Text="Пароль:" FontFamily="Comic Sans MS"/>
+            <PasswordBox x:Name="PasswordTextBox" FontFamily="Comic Sans MS"/>
         </StackPanel>
-        <StackPanel Margin="5,20,5,0">
-            <Button x:Name="AuthorizationButton" Content="Войти" Margin="5" FontFamily="Comic Sans MS" Click="AuthorizationButton_Click" Background="#FF69B4" Foreground="White"/>
-            <Button x:Name="GuestButton" Content="Войти как гость" Margin="5" FontFamily="Comic Sans MS" Click="GuestButton_Click" Background="#FFB6C1" Foreground="Black"/>
+        <StackPanel Margin="5">
+            <Button x:Name="AuthorizationButton" Content="Войти" Margin="5" FontFamily="Comic Sans MS" Click="AuthorizationButton_Click" Background="#FFCC6600"/>
+            <Button x:Name="GuestButton" Content="Войти как гость" Margin="5" FontFamily="Comic Sans MS" Click="GuestButton_Click" Background="#FFCC6600"/>
         </StackPanel>
     </StackPanel>
 </Page>

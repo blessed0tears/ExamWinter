@@ -6,20 +6,16 @@
     <Application.Resources>
         <ResourceDictionary>
             <SolidColorBrush x:Key="MainBrush" Color="White"/>
-            <SolidColorBrush x:Key="SecondaryBrush" Color="#FFB6C1"/>
-            <SolidColorBrush x:Key="AccentBrush" Color="#FF69B4"/>
-            <SolidColorBrush x:Key="DarkPinkBrush" Color="#C71585"/>
-            <SolidColorBrush x:Key="LightPinkBrush" Color="#FFF0F5"/>
+            <SolidColorBrush x:Key="SecondaryBrush" Color="#FFCC99"/>
+            <SolidColorBrush x:Key="AccentBrush" Color="#CC6600"/>
 
             <Style TargetType="{x:Type Window}">
-                <Setter Property="Background" Value="{StaticResource LightPinkBrush}" />
+                <Setter Property="Background" Value="{StaticResource MainBrush}" />
             </Style>
 
             <Style TargetType="{x:Type Button}">
                 <Setter Property="Background" Value="{StaticResource SecondaryBrush}" />
                 <Setter Property="Foreground" Value="Black"/>
-                <Setter Property="BorderThickness" Value="1"/>
-                <Setter Property="BorderBrush" Value="{StaticResource DarkPinkBrush}"/>
 
                 <Style.Triggers>
                     <Trigger Property="IsMouseOver" Value="True">

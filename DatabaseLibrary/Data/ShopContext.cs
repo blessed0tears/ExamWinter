@@ -30,7 +30,7 @@ public partial class ShopContext : DbContext
     public virtual DbSet<User> Users { get; set; }
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        => optionsBuilder.UseMySql("Server=localhost;Database=ExamWinter;User=root;Password=root;",
+        => optionsBuilder.UseMySql("Server=localhost;Database=ExamWinter;User=root;Password=1987;",
             Microsoft.EntityFrameworkCore.ServerVersion.Parse("8.0.23-mysql"));
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
